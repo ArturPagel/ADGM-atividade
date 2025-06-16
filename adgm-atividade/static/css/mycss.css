@@ -24,6 +24,12 @@ p, a {
     color: white;
     background-color: rgb(107, 31, 169);
     border-color: black;
+    text-align: center;}
+
+.numero {color: white;
+    background-color: rgb(107, 31, 169);
+    border-color: black;
+    text-align: right;
 }
 
  #imagem {
@@ -31,3 +37,17 @@ p, a {
       margin-top: 10px;
       width: 300px;
     }
+
+.formulario {
+    width: 25em;
+    background-color: rgb(95, 34, 9);
+    text-align: right;
+    padding-inline: 2em;
+    padding: 1em;
+    margin: 1.5em;
+
+}
+
+.teste input {
+    text-align: center;
+}
